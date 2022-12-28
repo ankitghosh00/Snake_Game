@@ -3,6 +3,18 @@
 A new Flutter project.
 
 ## Getting Started
+  ### Since Flutter is capable of rendering UI at up to 60 FPS, you’ll exploit that capability to build a simple 2D Snake game in Flutter.
+
+# FREACHER
+> Use Flutter as a game engine
+
+> Move objects
+
+> Control movement
+
+> Build game UI
+
+> Add game elements
 
 This project is a starting point for a Flutter application.
 
